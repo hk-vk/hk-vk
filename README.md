@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harikrishnan
 - 👀 I’m interested in technology and programming
-- 🌱 I’m currently learning python and web development
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
