@@ -1,7 +1,7 @@
 # Hi, i'm Harikrishnan 👋
 <p align="center"><br>
   <a href="https://github.com/SirDank">
-    <img src="https://lanyard-profile-readme.vercel.app/api/870688726525820988?theme=dark&bg=8#928374&animated=yes&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/870688726525820988?theme=dark&bg=#1E1E1E&animated=yes&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."/>
      </a>
 </p>
 
