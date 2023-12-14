@@ -1,6 +1,6 @@
 # Hi, i'm Harikrishnan 👋
 <p align="center"><br>
-  <a href="https://github.com/SirDank">
+  <a href="https://github.com/hk-vk">
     <img src="https://lanyard-profile-readme.vercel.app/api/870688726525820988?theme=dark&bg=282828&animated=yes&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."/>
      </a>
 </p>
