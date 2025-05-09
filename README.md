@@ -63,12 +63,10 @@
 
 ## 🧠 About Me
 
-- 🎓 Information Technology and Computer Science student
+- 🎓 Information Technology Graduate
 - 🌐 Passionate about web development
 - 💻 Proficient in Windows and WSL environments
 - 🧪 Exploring various programming languages and technologies
+- 
 
 ---
-
-## 🖼️ ASCII Art
-
