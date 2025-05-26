@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech I mess with
+## 🛠️ Tech
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-ffffff?style=flat-square&logo=git&logoColor=000000" height="24"/>
