@@ -52,14 +52,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk-vk&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
----
-
-## 🧠 About Me
-
-- 🎓 Information Technology Graduate
-- 🌐 Passionate about web development
-- 💻 Proficient in Windows and WSL environments
-- 🧪 Exploring various programming languages and technologies
-- 
-
----
